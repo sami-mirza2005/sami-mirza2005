@@ -90,11 +90,11 @@
                                                        .
 ```
 
-<h1 style="color:#00D9FF;font-family:'Fira Code',monospace;">Md. Abdullah Al Sami Mirza</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=99999&pause=99999&color=00D9FF&center=true&vCenter=true&width=900&lines=Md.+Abdullah+Al+Sami+Mirza" alt="Name" />
 
-<h3 style="color:#FF6AC1;font-family:'Fira Code',monospace;">CSE Undergraduate | Developer | Tech Enthusiast</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=99999&pause=99999&color=FF6AC1&center=true&vCenter=true&width=900&lines=CSE+Undergraduate+%7C+Developer+%7C+Tech+Enthusiast" alt="Role" />
 
-<h3 style="color:#00FF7F;font-family:'Fira Code',monospace;">Leading University</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=99999&pause=99999&color=00FF7F&center=true&vCenter=true&width=900&lines=Leading+University" alt="University" />
 
 <br/>
 
@@ -223,7 +223,7 @@ fun_fact     : Obsessed with gaming platforms and AI stuff
 
 ---
 
-## 💭 Random Dev Quote
+## ✍️ Random Dev Quote
 
 <div align="center">
 
