@@ -90,9 +90,16 @@
                                                        .
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:00ff99&height=120&section=header&text=Md.%20Abdullah%20Al%20Sami%20Mirza&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Undergraduate%20%7C%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=60&descColor=cccccc" />
+<!-- Animated name + role + university -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=Md.+Abdullah+Al+Sami+Mirza" alt="Name" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00FF99&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;DSA+%26+Problem+Solver;Always+Learning+%7C+Always+Building;Open+Source+Enthusiast;Python+%26+Java+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=800&color=FF6AC1&center=true&vCenter=true&width=800&lines=CSE+Undergraduate+%7C+Developer+%7C+Tech+Enthusiast" alt="Role" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=800&color=FFD700&center=true&vCenter=true&width=800&lines=Leading+University" alt="University" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=800&color=0077FF&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;DSA+%26+Problem+Solver;Always+Learning+%7C+Always+Building;Open+Source+Enthusiast;Python+%26+Java+Developer" alt="Typing SVG" />
 
 </div>
 
@@ -135,16 +142,20 @@ fun_fact     : Obsessed with gaming platforms and AI stuff
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### 🔧 Frameworks & Libraries
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=plotly&logoColor=black)
 
 ### 🗄️ Databases
@@ -166,9 +177,12 @@ fun_fact     : Obsessed with gaming platforms and AI stuff
 
 ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 ![Epic Games](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=epicgames&logoColor=white)
+![EA](https://img.shields.io/badge/EA-000000?style=for-the-badge&logo=ea&logoColor=white)
 ![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Ubisoft](https://img.shields.io/badge/Ubisoft-000000?style=for-the-badge&logo=ubisoft&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ---
 
@@ -176,13 +190,13 @@ fun_fact     : Obsessed with gaming platforms and AI stuff
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sami-mirza2005&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=sami-mirza2005&show_icons=true&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF&bg_color=0d1117&border_color=1e3a5f" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sami-mirza2005&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sami-mirza2005&layout=compact&theme=algolia&hide_border=false&title_color=00BFFF&text_color=ffffff&bg_color=0d1117&border_color=1e3a5f" />
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=sami-mirza2005&theme=algolia&hide_border=false" />
 
@@ -219,5 +233,3 @@ fun_fact     : Obsessed with gaming platforms and AI stuff
 *"The dragon doesn't ask for permission to fly."* 🐉🔥
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:00d9ff&height=80&section=footer" />
