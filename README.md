@@ -190,9 +190,9 @@ fun_fact     : Obsessed with gaming platforms and AI stuff
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sami-mirza2005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d4ff&text_color=a8b2d8&icon_color=00d4ff&border_radius=12" height="180" />
+<img src="https://github-readme-stats.shion.dev/api?username=sami-mirza2005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d4ff&text_color=a8b2d8&icon_color=00d4ff&border_radius=12" height="180" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sami-mirza2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a8b2d8&border_radius=12&langs_count=8" height="180" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sami-mirza2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a8b2d8&border_radius=12&langs_count=8" height="180" />
 
 </div>
 
