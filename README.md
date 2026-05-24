@@ -90,11 +90,11 @@
                                                        .
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=99999&pause=99999&color=00D9FF&center=true&vCenter=true&width=900&lines=Md.+Abdullah+Al+Sami+Mirza" alt="Name" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2000&pause=99999999&color=00D9FF&center=true&vCenter=true&repeat=false&width=900&lines=Md.+Abdullah+Al+Sami+Mirza" alt="Name" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=99999&pause=99999&color=FF6AC1&center=true&vCenter=true&width=900&lines=CSE+Undergraduate+%7C+Developer+%7C+Tech+Enthusiast" alt="Role" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=99999999&color=FF6AC1&center=true&vCenter=true&repeat=false&width=900&lines=CSE+Undergraduate+%7C+Developer+%7C+Tech+Enthusiast" alt="Role" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=99999&pause=99999&color=00FF7F&center=true&vCenter=true&width=900&lines=Leading+University" alt="University" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=99999999&color=00FF7F&center=true&vCenter=true&repeat=false&width=900&lines=Leading+University" alt="University" />
 
 <br/>
 
