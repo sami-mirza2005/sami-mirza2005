@@ -91,15 +91,15 @@
 ```
 
 <!-- Animated name + role + university -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=Md.+Abdullah+Al+Sami+Mirza" alt="Name" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2000&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Md.+Abdullah+Al+Sami+Mirza" alt="Name" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=800&color=FF6AC1&center=true&vCenter=true&width=800&lines=CSE+Undergraduate+%7C+Developer+%7C+Tech+Enthusiast" alt="Role" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=800&color=FF6AC1&center=true&vCenter=true&width=900&lines=CSE+Undergraduate+%7C+Developer+%7C+Tech+Enthusiast" alt="Role" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=800&color=FFD700&center=true&vCenter=true&width=800&lines=Leading+University" alt="University" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=800&color=00FF7F&center=true&vCenter=true&width=900&lines=Leading+University" alt="University" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=800&color=0077FF&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;DSA+%26+Problem+Solver;Always+Learning+%7C+Always+Building;Open+Source+Enthusiast;Python+%26+Java+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=800&color=00D4FF&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;DSA+%26+Problem+Solver;Always+Learning+%7C+Always+Building;Open+Source+Enthusiast;Python+%26+Java+Developer" alt="Typing SVG" />
 
 </div>
 
@@ -190,15 +190,15 @@ fun_fact     : Obsessed with gaming platforms and AI stuff
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sami-mirza2005&show_icons=true&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF&bg_color=0d1117&border_color=1e3a5f" />
+<img src="https://github-readme-stats.vercel.app/api?username=sami-mirza2005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d4ff&text_color=a8b2d8&icon_color=00d4ff&border_radius=12" height="180" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sami-mirza2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a8b2d8&border_radius=12&langs_count=8" height="180" />
 
-<br/><br/>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sami-mirza2005&layout=compact&theme=algolia&hide_border=false&title_color=00BFFF&text_color=ffffff&bg_color=0d1117&border_color=1e3a5f" />
+<div align="center">
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=sami-mirza2005&theme=algolia&hide_border=false" />
+<img src="https://streak-stats.demolab.com/?user=sami-mirza2005&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=a8b2d8&currStreakLabel=00d4ff&sideLabels=a8b2d8&dates=a8b2d8&border_radius=12" width="60%"/>
 
 </div>
 
@@ -208,17 +208,27 @@ fun_fact     : Obsessed with gaming platforms and AI stuff
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=sami-mirza2005&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sami-mirza2005&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&margin-h=6&column=7&row=1)
 
 </div>
 
 ---
 
-## ✍️ Random Dev Quote
+## 🔝 Top Contributed Repositories
 
 <div align="center">
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
+![](https://github-contributor-stats.vercel.app/api?username=sami-mirza2005&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a8b2d8&border_radius=12)
+
+</div>
+
+---
+
+## ✍️ Dev Quote of the Day
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
@@ -226,9 +236,9 @@ fun_fact     : Obsessed with gaming platforms and AI stuff
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=sami-mirza2005&label=Profile+Views&color=00d9ff&style=for-the-badge)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-<br/><br/>
+[![Profile Views](https://komarev.com/ghpvc/?username=sami-mirza2005&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)](https://visitcount.itsvg.in)
 
 *"The dragon doesn't ask for permission to fly."* 🐉🔥
 
