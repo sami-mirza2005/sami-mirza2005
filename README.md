@@ -90,13 +90,13 @@
                                                        .
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Md.+Abdullah+Al+Sami+Mirza" alt="Name" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=800&lines=Md.+Abdullah+Al+Sami+Mirza" alt="Name" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=A0A0A0&center=true&vCenter=true&width=940&lines=CSE+Undergraduate+%7C+Developer+%7C+Tech+Enthusiast" alt="Subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=2000&color=A0A0A0&center=true&vCenter=true&width=800&lines=CSE+Undergraduate+%7C+Developer+%7C+Tech+Enthusiast" alt="Subtitle" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00FF99&center=true&vCenter=true&multiline=false&width=940&lines=Full+Stack+Web+Developer;DSA+%26+Problem+Solver;Always+Learning+%7C+Always+Building;Open+Source+Enthusiast;Python+%26+Java+Developer" alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00FF99&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;DSA+%26+Problem+Solver;Always+Learning+%7C+Always+Building;Open+Source+Enthusiast;Python+%26+Java+Developer" alt="Typing SVG" />
 
 </div>
 
@@ -111,7 +111,7 @@ university   : Leading University
 focus        : Web Development · Data Structures & Algorithms
 currently    : Building real-world web projects & sharpening DSA skills
 learning     : React · Node.js · Advanced Algorithms
-collaborate  : Open Source Projects · Web Applications
+collaborate  : Open Source Projects · Web Applications · Research Papers
 seeking      : Software Engineering opportunities & challenges
 fun_fact     : Obsessed with gaming platforms and AI stuff
 ```
@@ -198,19 +198,13 @@ fun_fact     : Obsessed with gaming platforms and AI stuff
 
 ---
 
-## 🔝 Top Contributed Repos
-
-<div align="center">
-
-![Top Contributed](https://github-contributor-stats.vercel.app/api?username=sami-mirza2005&limit=5&theme=algolia&combine_all_yearly_contributions=true)
-
-</div>
-
----
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sami-mirza2005&label=Profile+Views&color=00d9ff&style=for-the-badge)
+
+<br/><br/>
+
+*"The dragon doesn't ask for permission to fly."* 🐉🔥
 
 </div>
 
