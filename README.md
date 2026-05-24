@@ -92,6 +92,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=800&lines=Md.+Abdullah+Al+Sami+Mirza" alt="Name" />
 
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=2000&color=A0A0A0&center=true&vCenter=true&width=800&lines=CSE+Undergraduate+%7C+Developer+%7C+Tech+Enthusiast" alt="Subtitle" />
 
 <br/>
@@ -163,16 +165,19 @@ fun_fact     : Obsessed with gaming platforms and AI stuff
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sami-mirza2005&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sami-mirza2005&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=sami-mirza2005&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=sami-mirza2005&theme=algolia&hide_border=false" width="70%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sami-mirza2005&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=sami-mirza2005&theme=algolia&hide_border=false" />
 
 </div>
 
@@ -188,7 +193,7 @@ fun_fact     : Obsessed with gaming platforms and AI stuff
 
 ---
 
-## ✍️ Dev Quote of the Day
+## ✍️ Random Dev Quote
 
 <div align="center">
 
