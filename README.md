@@ -90,9 +90,7 @@
                                                        .
 ```
 
-<h2>Md. Abdullah Al Sami Mirza</h2>
-
-<p><em>CSE Undergraduate | Developer | Tech Enthusiast</em></p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:00ff99&height=120&section=header&text=Md.%20Abdullah%20Al%20Sami%20Mirza&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Undergraduate%20%7C%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=60&descColor=cccccc" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00FF99&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;DSA+%26+Problem+Solver;Always+Learning+%7C+Always+Building;Open+Source+Enthusiast;Python+%26+Java+Developer" alt="Typing SVG" />
 
@@ -131,33 +129,46 @@ fun_fact     : Obsessed with gaming platforms and AI stuff
 
 ## 💻 Tech Stack
 
-<div align="center">
+### 🖥️ Languages
 
-### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
+### 🔧 Frameworks & Libraries
 
-### Data & Design
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=plotly&logoColor=black)
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ☁️ Cloud & DevOps
+
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+
+### 🎨 Design & Creative Tools
+
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-</div>
+### 🎮 Gaming Platforms
+
+![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+![Epic Games](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=epicgames&logoColor=white)
+![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
 
@@ -209,4 +220,4 @@ fun_fact     : Obsessed with gaming platforms and AI stuff
 
 </div>
 
-<!-- Proudly crafted with 🐉 dragon energy -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:00d9ff&height=80&section=footer" />
