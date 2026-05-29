@@ -127,6 +127,7 @@ fun_fact     : Obsessed with gaming platforms and AI stuff
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/sami.mirza.195951)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sami_mirza_2)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-abdullah-al-sami-mirza)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/al_sami_mirza)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eshansami2005@gmail.com)
 
 </div>
@@ -155,6 +156,7 @@ fun_fact     : Obsessed with gaming platforms and AI stuff
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -163,6 +165,7 @@ fun_fact     : Obsessed with gaming platforms and AI stuff
 ### 🔧 Frameworks & Libraries
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -174,6 +177,7 @@ fun_fact     : Obsessed with gaming platforms and AI stuff
 ### 🗄️ Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 
@@ -186,16 +190,9 @@ fun_fact     : Obsessed with gaming platforms and AI stuff
 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-### 🎮 Gaming Platforms
+### 🔩 Hardware & Others
 
-![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
-![Epic Games](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=epicgames&logoColor=white)
-![EA](https://img.shields.io/badge/EA-000000?style=for-the-badge&logo=ea&logoColor=white)
-![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
-![Ubisoft](https://img.shields.io/badge/Ubisoft-000000?style=for-the-badge&logo=ubisoft&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
 
@@ -203,9 +200,9 @@ fun_fact     : Obsessed with gaming platforms and AI stuff
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=sami-mirza2005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d4ff&text_color=a8b2d8&icon_color=00d4ff&border_radius=12" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=sami-mirza2005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d4ff&text_color=a8b2d8&icon_color=00d4ff&border_radius=12" height="180" />
 &nbsp;
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sami-mirza2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a8b2d8&border_radius=12&langs_count=8" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sami-mirza2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a8b2d8&border_radius=12&langs_count=8" height="180" />
 
 </div>
 
@@ -221,7 +218,7 @@ fun_fact     : Obsessed with gaming platforms and AI stuff
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=sami-mirza2005&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&margin-h=6&column=7&row=1)
+<img src="https://github-profile-trophy.vercel.app/?username=sami-mirza2005&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&margin-h=6&column=7&row=1" />
 
 </div>
 
