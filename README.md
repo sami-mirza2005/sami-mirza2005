@@ -124,11 +124,11 @@ fun_fact     : Obsessed with gaming platforms and AI stuff
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/sami.mirza.195951)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sami_mirza_2)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-abdullah-al-sami-mirza)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/al_sami_mirza)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eshansami2005@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=FFD43B)](https://facebook.com/sami.mirza.195951)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFD43B)](https://instagram.com/sami_mirza_2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFD43B)](https://linkedin.com/in/md-abdullah-al-sami-mirza)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FFD43B)](https://x.com/al_sami_mirza)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=FFD43B)](mailto:eshansami2005@gmail.com)
 
 </div>
 
@@ -138,11 +138,11 @@ fun_fact     : Obsessed with gaming platforms and AI stuff
 
 <div align="center">
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/samimirza)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=FFD43B)](https://codeforces.com/profile/samimirza)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sami_Mirza/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/sami_mirza)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=FFD43B)](https://www.codechef.com/users/sami_mirza)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/eshansami2005)
-[![Beecrowd](https://img.shields.io/badge/Beecrowd-29ABE2?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+M9QDwADhgGAWjR9awAAAABJRU5ErkJggg==&logoColor=white)](https://judge.beecrowd.com/en/profile/1101214)
+[![Beecrowd](https://img.shields.io/badge/Beecrowd-29ABE2?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+M9QDwADhgGAWjR9awAAAABJRU5ErkJggg==&logoColor=FFD43B)](https://judge.beecrowd.com/en/profile/1101214)
 
 </div>
 
@@ -152,47 +152,47 @@ fun_fact     : Obsessed with gaming platforms and AI stuff
 
 ### 🖥️ Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48bGluZWFyR3JhZGllbnQgaWQ9ImEiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiB4MT0iNzAuMjUyIiB5MT0iMTIyLjQ0NCIgeDI9IjEyOC40NiIgeTI9IjUyLjM4MSI+PHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjZmZkNDNiIi8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjZmZlODczIi8+PC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgaWQ9ImIiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiB4MT0iMjcuMTQxIiB5MT0iLTYuMjI0IiB4Mj0iLTYuMjM5IiB5Mj0iNjUuMTM3Ij48c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiMzNzc2YWIiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiM0YjhjYzEiLz48L2xpbmVhckdyYWRpZW50PjxwYXRoIGZpbGw9InVybCgjYikiIGQ9Ik02My4zOTEgMS45ODhDNTAuNzQ4IDEuOTQ4IDM4LjcyNCAzLjI2IDMwLjIzIDYuNjZjLTI0LjMgOS41LTI4LjcgMjkuMzItMjguNyA1OC4wNnYxNS4xaDE3LjNWNzQuNzRoNDQuNzd2LTYuMjRINi43OGMtLjA0LTQuMDQtLjA4LTguMDgtLjA4LTEyLjExdi04LjgxSDY0LjJWNDIuMzdIMTcuMjVjLjM5LTcuMjUgMS41Ni0xMy41MyA0LjMyLTE3LjI5IDUuNjctNy42NyAxNy4xNi0xMS41NCAzNS43Mi0xMS41NCA0LjYzIDAgMzAuNzYuNDIgMzAuNzYuNDJsMi4wOS4wM1YxLjk5bC0yLjA2LS4wMmMtOS45NS0uMDMtMTguMTMgMC0yNi42NyAweiIvPjxwYXRoIGZpbGw9InVybCgjYSkiIGQ9Ik02NS41MSAxMjUuOTdjMTIuNjQ0LjA0IDI0LjY2OC0xLjI3IDMzLjE2Mi00LjY3IDI0LjMtOS41IDI4LjctMjkuMzIgMjguNy01OC4wNlY0OC4xNGgtMTcuM3Y1LjA2SDY1LjE2djYuMjRoNjAuOThjLjA0IDQuMDQuMDggOC4wOC4wOCAxMi4xMXY4LjgxSDY0Ljc3djYuMjFoNDYuOTVjLS4zOSA3LjI1LTEuNTYgMTMuNTMtNC4zMiAxNy4yOS01LjY3IDcuNjctMTcuMTYgMTEuNTQtMzUuNzIgMTEuNTQtNC42MyAwLTMwLjc2LS40Mi0zMC43Ni0uNDJsLTIuMDktLjAzdjEyLjc2bDIuMDYuMDJjOS45NS4wMyAxOC4xMyAwIDI2LjY3IDB6Ii8+PGNpcmNsZSBmaWxsPSJ1cmwoI2IpIiBjeD0iMzQuNDQiIGN5PSIyNy41IiByPSI0LjMxIi8+PGNpcmNsZSBmaWxsPSJ1cmwoI2EpIiBjeD0iOTMuNTYiIGN5PSIxMDAuNSIgcj0iNC4zMSIvPjwvc3ZnPg==&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=FFD43B)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFD43B)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=FFD43B)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48bGluZWFyR3JhZGllbnQgaWQ9ImEiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiB4MT0iNzAuMjUyIiB5MT0iMTIyLjQ0NCIgeDI9IjEyOC40NiIgeTI9IjUyLjM4MSI+PHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjZmZkNDNiIi8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjZmZlODczIi8+PC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgaWQ9ImIiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiB4MT0iMjcuMTQxIiB5MT0iLTYuMjI0IiB4Mj0iLTYuMjM5IiB5Mj0iNjUuMTM3Ij48c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiMzNzc2YWIiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiM0YjhjYzEiLz48L2xpbmVhckdyYWRpZW50PjxwYXRoIGZpbGw9InVybCgjYikiIGQ9Ik02My4zOTEgMS45ODhDNTAuNzQ4IDEuOTQ4IDM4LjcyNCAzLjI2IDMwLjIzIDYuNjZjLTI0LjMgOS41LTI4LjcgMjkuMzItMjguNyA1OC4wNnYxNS4xaDE3LjNWNzQuNzRoNDQuNzd2LTYuMjRINi43OGMtLjA0LTQuMDQtLjA4LTguMDgtLjA4LTEyLjExdi04LjgxSDY0LjJWNDIuMzdIMTcuMjVjLjM5LTcuMjUgMS41Ni0xMy41MyA0LjMyLTE3LjI5IDUuNjctNy42NyAxNy4xNi0xMS41NCAzNS43Mi0xMS41NCA0LjYzIDAgMzAuNzYuNDIgMzAuNzYuNDJsMi4wOS4wM1YxLjk5bC0yLjA2LS4wMmMtOS45NS0uMDMtMTguMTMgMC0yNi42NyAweiIvPjxwYXRoIGZpbGw9InVybCgjYSkiIGQ9Ik02NS41MSAxMjUuOTdjMTIuNjQ0LjA0IDI0LjY2OC0xLjI3IDMzLjE2Mi00LjY3IDI0LjMtOS41IDI4LjctMjkuMzIgMjguNy01OC4wNlY0OC4xNGgtMTcuM3Y1LjA2SDY1LjE2djYuMjRoNjAuOThjLjA0IDQuMDQuMDggOC4wOC4wOCAxMi4xMXY4LjgxSDY0Ljc3djYuMjFoNDYuOTVjLS4zOSA3LjI1LTEuNTYgMTMuNTMtNC4zMiAxNy4yOS01LjY3IDcuNjctMTcuMTYgMTEuNTQtMzUuNzIgMTEuNTQtNC42MyAwLTMwLjc2LS40Mi0zMC43Ni0uNDJsLTIuMDktLjAzdjEyLjc2bDIuMDYuMDJjOS45NS4wMyAxOC4xMyAwIDI2LjY3IDB6Ii8+PGNpcmNsZSBmaWxsPSJ1cmwoI2IpIiBjeD0iMzQuNDQiIGN5PSIyNy41IiByPSI0LjMxIi8+PGNpcmNsZSBmaWxsPSJ1cmwoI2EpIiBjeD0iOTMuNTYiIGN5PSIxMDAuNSIgcj0iNC4zMSIvPjwvc3ZnPg==&logoColor=FFD43B)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=FFD43B)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=FFD43B)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFD43B)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFD43B)
 
 ### 🔧 Frameworks & Libraries
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=FFD43B)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=FFD43B)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=FFD43B)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=FFD43B)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=FFD43B)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFD43B)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=FFD43B)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=plotly&logoColor=black)
 
 ### 🗄️ Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFD43B)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=FFD43B)
 
 ### ☁️ Cloud & DevOps
 
 ![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=FFD43B)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=FFD43B)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=FFD43B)
 
 ### 🎨 Design & Creative Tools
 
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=FFD43B)
 
 ### 🔩 Hardware & Others
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=FFD43B)
 
 ---
 
