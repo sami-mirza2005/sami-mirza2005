@@ -202,7 +202,7 @@ fun_fact     : Obsessed with gaming platforms and AI stuff
 
 <img src="https://github-readme-stats.shion.dev/api?username=sami-mirza2005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d4ff&text_color=a8b2d8&icon_color=00d4ff&border_radius=12" height="180" />
 &nbsp;
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sami-mirza2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a8b2d8&border_radius=12&langs_count=8" height="180" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sami-mirza2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a8b2d8&border_radius=12&langs_count=8&hide=jupyter%20notebook" height="180" />
 
 </div>
 
@@ -218,7 +218,7 @@ fun_fact     : Obsessed with gaming platforms and AI stuff
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sami-mirza2005&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&margin-h=6&column=4&row=2" width="100%" />
+<img src="https://github-trophies.vercel.app/?username=sami-mirza2005&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&margin-h=6&column=4&row=2" width="100%" />
 
 </div>
 
